@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Anass-gouzgar/NFT-preview-card-component)
-- Live Site URL:(https://order-summary-componentt.vercel.app/)
+- Live Site URL:(https://nftcard-preview.vercel.app/)
 
 ## My process
 
